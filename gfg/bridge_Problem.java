@@ -20,6 +20,7 @@ public class bridge_Problem {
              
         }
         
+        
         for(int i=0;i<adj.get(c).size();i++)
         {
             if(adj.get(c).get(i)==d)
